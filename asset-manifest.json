@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mettings/static/css/main.f1524157.chunk.css",
+    "main.js": "/mettings/static/js/main.8bba3323.chunk.js",
+    "main.js.map": "/mettings/static/js/main.8bba3323.chunk.js.map",
+    "runtime-main.js": "/mettings/static/js/runtime-main.5b02c6a6.js",
+    "runtime-main.js.map": "/mettings/static/js/runtime-main.5b02c6a6.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/mettings/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/mettings/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/mettings/index.html",
+    "precache-manifest.a47726594a30b6f4e6e6aced6886dee0.js": "/mettings/precache-manifest.a47726594a30b6f4e6e6aced6886dee0.js",
+    "service-worker.js": "/mettings/service-worker.js",
+    "static/css/main.f1524157.chunk.css.map": "/mettings/static/css/main.f1524157.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/mettings/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b02c6a6.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.f1524157.chunk.css",
+    "static/js/main.8bba3323.chunk.js"
+  ]
+}
